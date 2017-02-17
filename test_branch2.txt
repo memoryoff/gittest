@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 add ·¢ËÍµ½¸ß
+=======
+add other1
+>>>>>>> e6b2bed82b7c613d8ef8f252d7a6f6100fc894f3
