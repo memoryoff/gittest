@@ -1,2 +1,6 @@
 add something
+<<<<<<< HEAD
 add master
+=======
+branch1
+>>>>>>> branch1
